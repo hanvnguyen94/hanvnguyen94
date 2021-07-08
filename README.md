@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Han </h1>
-<h3 align="center">A passionate Web Developer with background in retail and marketing industry. Connect with me on
+<h3 align="center">A passionate Web Developer with background in retail and marketing industry. <br />Connect with me on
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hnguyen94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hnguyen94/" height="20" width="20" /> </a>
 </h3>
 
