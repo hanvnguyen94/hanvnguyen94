@@ -43,7 +43,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanvnguyen94&" alt="hanvnguyen94" /></p>
 
-<h2 align="center">It's not related but I'm showing off the love of my life <img src="https://media.giphy.com/media/dllaVVQsTB6AzSK2pk/giphy.gif" width="50px" height="50px" /></h2>
+<h2 align="center">It's not related but I'm showing off the love of my life <img src="https://media.giphy.com/media/dllaVVQsTB6AzSK2pk/giphy.gif" width="60px" height="60px" /></h2>
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/73920080/125010764-2abf4a00-e035-11eb-92e1-7bae92262be0.jpeg" alt="keanu" /></p>
 
 
