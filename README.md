@@ -1,14 +1,18 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Han </h1>
-<h3 align="center">A passionate Web Developer with background in retail and marketing industry.</h3>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hanvnguyen94&label=Profile%20views&color=0e75b6&style=flat" alt="hanvnguyen94" /> </p>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Han </h1><p align="right"> 
+<h4 align="center">A passionate Web Developer with background in retail and marketing industry. Do you know someone who's hiring Junior Web Developer? I have everything you need plus my hard working spirit 🧠</h4>
+<h3 align="center">Connect with me on</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/hnguyen94/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/hanv.nguyen/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73920080/124977713-ced9ce80-dffe-11eb-9d2b-e033feb4bbd1.gif" /></p>
 
 <div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hanvnguyen94&label=Profile%20views&color=0e75b6&style=flat" alt="hanvnguyen94" /> </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanvnguyen94&show_icons=true&locale=en&layout=compact" alt="hanvnguyen94" />
 
 
-- 🌱  I’m currently learning **React Native, Firebase**
+- 🌱  I’m currently learning <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 - 👨‍💻  All of my projects are available at <a href="https://www.hanvsolo.com/"><img src="https://img.shields.io/badge/Portfolio-ff0044?style=for-the-badge" /></a>
 
@@ -40,4 +44,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanvnguyen94&show_icons=true&locale=en" alt="hanvnguyen94" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanvnguyen94&" alt="hanvnguyen94" /></p>
+
 
