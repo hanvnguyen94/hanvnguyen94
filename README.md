@@ -43,7 +43,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanvnguyen94&" alt="hanvnguyen94" /></p>
 
-<h2 align="center">It's not related but this is Keanu or Perses - God of Destruction <img src="https://media.giphy.com/media/dllaVVQsTB6AzSK2pk/giphy.gif" width="60px" height="60px" /></h2>
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/73920080/126555227-7ad6de8f-d306-4249-b00f-cc4485d2e1fa.jpg" alt="keanu" /></p>
-
 
