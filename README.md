@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hanvnguyen94&label=Profile%20views&color=0e75b6&style=flat" alt="hanvnguyen94" /> </p>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Han </h1><p align="right"> 
-<h3 align="center">A passionate Web Developer with background in retail and marketing industry.</h3>
+<h3 align="center">A RPA Engineer with background in retail and marketing industry.</h3>
 <h3 align="center">Connect with me on</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/hnguyen94/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/hanv.nguyen/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.hanvsolo.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff0044?style=for-the-badge" /></a>
