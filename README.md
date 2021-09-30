@@ -1,19 +1,19 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hanvnguyen94&label=Profile%20views&color=0e75b6&style=flat" alt="hanvnguyen94" /> </p>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Han </h1><p align="right"> 
 <h3 align="center">A RPA Engineer with background in retail and marketing industry.</h3>
-<h3 align="center">Connect with me on</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/hnguyen94/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/hanv.nguyen/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.hanvsolo.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff0044?style=for-the-badge" /></a>
-</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73920080/124977713-ced9ce80-dffe-11eb-9d2b-e033feb4bbd1.gif" /></p>
+
+<h3 style="color: green" align="center">Check out my vlog to see how my daily routine looks like as a RPA Engineer. Cheers ✌️</h3>
+
+<a href="https://youtu.be/d0XnVvEQCb8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> [![Day in the life of a RPA Engineer](https://user-images.githubusercontent.com/73920080/135369218-260b5f24-2b40-425c-ad75-4faae22a2057.gif)](https://youtu.be/d0XnVvEQCb8)
+
+<hr />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanvnguyen94&show_icons=true&locale=en&layout=compact" alt="hanvnguyen94" />
 
+- I’m currently learning <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-- I’m currently learning <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-- All of my projects are available at my <a href="https://www.hanvsolo.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff0044?style=for-the-badge" /></a>
+- All of my projects are available in my <a href="https://www.hanvsolo.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff0044?style=for-the-badge" /></a>
 
 - Ask me about <img src="https://camo.githubusercontent.com/83ad3e186e35214f6f1257fbec7b35a469087282646d7870b7bfac8eb325cf64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" /> <img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" />
 
@@ -21,7 +21,7 @@
 
 - Know about my experiences [Resume](https://drive.google.com/file/d/1hsoPlK_eS1JaGoNVcxIu4eY9QwrX9NE3/view)
 
-- Fun fact **I think I am funny (at least people told me that)**
+- Fun fact **I think I am funny (I'm pretty sure about that 😉)**
  
 <h2 align="center">Languages</h2>
 <p align="center"><a href="https://www.w3.org/html/" target="_
@@ -43,4 +43,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanvnguyen94&" alt="hanvnguyen94" /></p>
 
+<h3 align="center">Connect with me on</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/hnguyen94/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/hanv.nguyen/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.hanvsolo.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff0044?style=for-the-badge" /></a>
+ <p align="center"><img src="https://user-images.githubusercontent.com/73920080/124977713-ced9ce80-dffe-11eb-9d2b-e033feb4bbd1.gif" /></p>
+
+</p>
 
