@@ -19,7 +19,7 @@
 
 - Reach me via my <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> **hanvnguyen94@gmail.com**
 
-- Know about my experiences [Resume](https://drive.google.com/file/d/1hsoPlK_eS1JaGoNVcxIu4eY9QwrX9NE3/view)
+- Know about my experiences [Resume](https://drive.google.com/file/d/1t9xsPTeHnHLx98Z8IXnWZ2ycI30SVdBw/view)
 
 - Fun fact **I think I am funny (I'm pretty sure about that 😉)**
  
