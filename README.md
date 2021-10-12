@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hanvnguyen94&label=Profile%20views&color=0e75b6&style=flat" alt="hanvnguyen94" /> </p>
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Han </h1><p align="right"> 
-<h3 align="center">A RPA Engineer with background in retail and marketing industry.</h3>
+<h3 align="center">A Software Developer with background in retail and marketing industry.</h3>
 
 
 <h3 style="color: green" align="center">Check out my vlog to see how my daily routine looks like as a RPA Engineer. Cheers ✌️</h3>
