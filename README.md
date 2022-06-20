@@ -1,5 +1,5 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hanvnguyen94&label=Profile%20views&color=0e75b6&style=flat" alt="hanvnguyen94" /> </p>
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Han </h1> <p align="right"> 
+<h1 align="center">Hello World! I'm Han </h1> <p align="right"> 
 
 <h2 align="center">Languages</h2>
 <p align="center"><a href="https://www.w3.org/html/" target="_
